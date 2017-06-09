@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lucene_api:war">
+    <output-path>$PROJECT_DIR$/lucene_api/target</output-path>
+    <root id="archive" name="lucene_api.war">
+      <element id="artifact" artifact-name="lucene_api:war exploded" />
+    </root>
+  </artifact>
+</component>

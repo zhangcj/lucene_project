@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lucene.iml" filepath="$PROJECT_DIR$/lucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lucene_api/lucene_api.iml" filepath="$PROJECT_DIR$/lucene_api/lucene_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lucene_conf/lucene_conf.iml" filepath="$PROJECT_DIR$/lucene_conf/lucene_conf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lucene_dao/lucene_dao.iml" filepath="$PROJECT_DIR$/lucene_dao/lucene_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lucene_entity/lucene_entity.iml" filepath="$PROJECT_DIR$/lucene_entity/lucene_entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lucene_indexCreator_console/lucene_indexCreator_console.iml" filepath="$PROJECT_DIR$/lucene_indexCreator_console/lucene_indexCreator_console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lucene_querySearch_console/lucene_querySearch_console.iml" filepath="$PROJECT_DIR$/lucene_querySearch_console/lucene_querySearch_console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lucene_service/lucene_service.iml" filepath="$PROJECT_DIR$/lucene_service/lucene_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lucene_web/lucene_web.iml" filepath="$PROJECT_DIR$/lucene_web/lucene_web.iml" />
+    </modules>
+  </component>
+</project>
